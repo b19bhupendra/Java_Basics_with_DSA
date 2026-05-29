@@ -14,7 +14,7 @@ public class Missing_ele
             arr[i]=sc.nextInt();
         }
         Missing(n,arr);
-        Missing2(n,arr);
+//        Missing2(n,arr);
 
     }
     public static void Missing(int n, int arr[])
