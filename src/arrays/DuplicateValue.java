@@ -17,19 +17,13 @@ public class DuplicateValue {
 //        for(int i =0; i<arr.length; i++){
 //            for(int j )
 
-        for(int num :arr){
-            if(map.containsKey(num)){
-
-            } else{
-                map.put()
-            }
-        }
-
-
-
-
-
-
+//        for(int num :arr){
+//            if(map.containsKey(num)){
+//
+//            } else{
+//                map.put();
+//            }
+//        }
     }
 
     // [3,2,2]
